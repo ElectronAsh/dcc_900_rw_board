@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,12 +53,12 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -21918,13 +21918,13 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="GND31" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C151" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100nF"/>
 <part name="GND32" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C150" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0405" package3d_urn="urn:adsk.eagle:package:23397/1" value="68uF 10V"/>
-<part name="Q1" library="transistor-npn" library_urn="urn:adsk.eagle:library:398" deviceset="MUN2211*" device="" package3d_urn="urn:adsk.eagle:package:28988/2" technology="T1"/>
+<part name="C150" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E" package3d_urn="urn:adsk.eagle:package:23425/2" value="68uF 10V"/>
+<part name="Q153" library="transistor-npn" library_urn="urn:adsk.eagle:library:398" deviceset="MUN2211*" device="" package3d_urn="urn:adsk.eagle:package:28988/2" technology="T1"/>
 <part name="GND33" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND34" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C134" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100nF"/>
 <part name="GND35" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C135" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0405" package3d_urn="urn:adsk.eagle:package:23397/1" value="68uF 10V"/>
+<part name="C135" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E" package3d_urn="urn:adsk.eagle:package:23425/2" value="68uF 10V"/>
 <part name="C133" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100nF"/>
 <part name="GND36" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C148" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0405" package3d_urn="urn:adsk.eagle:package:23397/1" value="68uF 10V"/>
@@ -21935,7 +21935,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="560R"/>
 <part name="C138" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="100nF"/>
 <part name="GND38" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C137" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0405" package3d_urn="urn:adsk.eagle:package:23397/1" value="68uF 10V"/>
+<part name="C137" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="E" package3d_urn="urn:adsk.eagle:package:23425/2" value="68uF 10V"/>
 <part name="Q104" library="transistor-npn" library_urn="urn:adsk.eagle:library:398" deviceset="BC849*" device="SMD" package3d_urn="urn:adsk.eagle:package:28990/2" value="2SD99CL"/>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1uF"/>
 <part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1uF"/>
@@ -21996,15 +21996,15 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R102" library="pot-vitrohm" library_urn="urn:adsk.eagle:library:329" deviceset="PC25" device="" package3d_urn="urn:adsk.eagle:package:22616/1" value="4K7"/>
 <part name="GND49" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND50" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="C115" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0505" package3d_urn="urn:adsk.eagle:package:23402/1" value="2.2uF 6.3V"/>
-<part name="C116" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0505" package3d_urn="urn:adsk.eagle:package:23402/1" value="2.2uF 6.3V"/>
+<part name="C115" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="C/6032-28R" package3d_urn="urn:adsk.eagle:package:23415/1" value="2.2uF 6.3V"/>
+<part name="C116" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="C/6032-28R" package3d_urn="urn:adsk.eagle:package:23415/1" value="2.2uF 6.3V"/>
 <part name="R103" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="47K"/>
 <part name="R104" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="47K"/>
 <part name="R105" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="30K"/>
 <part name="R127" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="1K"/>
 <part name="R107" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="150K"/>
 <part name="C117" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0603" package3d_urn="urn:adsk.eagle:package:23616/2" value="1.8nF"/>
-<part name="R5" library="pot-vitrohm" library_urn="urn:adsk.eagle:library:329" deviceset="PC25" device="" package3d_urn="urn:adsk.eagle:package:22616/1" value="4K7"/>
+<part name="R109" library="pot-vitrohm" library_urn="urn:adsk.eagle:library:329" deviceset="PC25" device="" package3d_urn="urn:adsk.eagle:package:22616/1" value="4K7"/>
 <part name="GND51" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R106" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="30K"/>
 <part name="R128" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/2" value="1K"/>
@@ -22025,7 +22025,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="R135" library="pot-vitrohm" library_urn="urn:adsk.eagle:library:329" deviceset="PC25" device="" package3d_urn="urn:adsk.eagle:package:22616/1" value="1K"/>
 <part name="C143" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="153CLV-0505" package3d_urn="urn:adsk.eagle:package:23402/1" value="4.7uF 16V"/>
 <part name="GND55" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="Q2" library="transistor-pnp" library_urn="urn:adsk.eagle:library:399" deviceset="BCX71SMD" device="" package3d_urn="urn:adsk.eagle:package:29213/2"/>
+<part name="Q105" library="transistor-pnp" library_urn="urn:adsk.eagle:library:399" deviceset="BCX71SMD" device="" package3d_urn="urn:adsk.eagle:package:29213/2"/>
 </parts>
 <sheets>
 <sheet>
@@ -22084,7 +22084,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <instance part="GND3" gate="1" x="119.38" y="152.4"/>
 <instance part="GND22" gate="1" x="165.1" y="129.54"/>
 <instance part="Q183" gate="D" x="236.22" y="149.86" rot="MR180"/>
-<instance part="Q1" gate="G$1" x="137.16" y="254" rot="MR180"/>
+<instance part="Q153" gate="G$1" x="137.16" y="254" rot="MR180"/>
 <instance part="GND33" gate="1" x="144.78" y="261.62" rot="R90"/>
 <instance part="GND34" gate="1" x="50.8" y="40.64"/>
 <instance part="C134" gate="G$1" x="25.4" y="43.18"/>
@@ -22169,7 +22169,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <instance part="R127" gate="G$1" x="269.24" y="35.56"/>
 <instance part="R107" gate="G$1" x="254" y="20.32"/>
 <instance part="C117" gate="G$1" x="261.62" y="27.94"/>
-<instance part="R5" gate="G" x="241.3" y="20.32"/>
+<instance part="R109" gate="G" x="241.3" y="20.32"/>
 <instance part="GND51" gate="1" x="241.3" y="-5.08" rot="MR0"/>
 <instance part="R106" gate="G$1" x="220.98" y="7.62" rot="R90"/>
 <instance part="R128" gate="G$1" x="213.36" y="15.24"/>
@@ -22185,12 +22185,12 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <instance part="R131" gate="G$1" x="271.78" y="213.36" rot="R90"/>
 <instance part="GND53" gate="1" x="251.46" y="210.82"/>
 <instance part="GND54" gate="1" x="271.78" y="203.2"/>
-<instance part="R130" gate="G$1" x="279.4" y="220.98"/>
-<instance part="R129" gate="G$1" x="294.64" y="220.98"/>
+<instance part="R130" gate="G$1" x="281.94" y="220.98"/>
+<instance part="R129" gate="G$1" x="299.72" y="220.98"/>
 <instance part="R135" gate="G" x="228.6" y="228.6"/>
 <instance part="C143" gate="G$1" x="238.76" y="228.6" rot="R90"/>
 <instance part="GND55" gate="1" x="228.6" y="218.44"/>
-<instance part="Q2" gate="G$1" x="284.48" y="236.22"/>
+<instance part="Q105" gate="G$1" x="289.56" y="236.22"/>
 </instances>
 <busses>
 </busses>
@@ -22280,7 +22280,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </segment>
 <segment>
 <pinref part="GND33" gate="1" pin="GND"/>
-<pinref part="Q1" gate="G$1" pin="E"/>
+<pinref part="Q153" gate="G$1" pin="E"/>
 <wire x1="142.24" y1="261.62" x2="139.7" y2="261.62" width="0.1524" layer="91"/>
 <wire x1="139.7" y1="261.62" x2="139.7" y2="259.08" width="0.1524" layer="91"/>
 </segment>
@@ -22871,13 +22871,13 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <pinref part="Q101" gate="G$1" pin="REF2@9"/>
 <wire x1="157.48" y1="223.52" x2="157.48" y2="243.84" width="0.1524" layer="91"/>
 <wire x1="157.48" y1="243.84" x2="139.7" y2="243.84" width="0.1524" layer="91"/>
-<pinref part="Q1" gate="G$1" pin="C"/>
+<pinref part="Q153" gate="G$1" pin="C"/>
 <wire x1="139.7" y1="243.84" x2="139.7" y2="248.92" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="CC/!DCC" class="0">
 <segment>
-<pinref part="Q1" gate="G$1" pin="B"/>
+<pinref part="Q153" gate="G$1" pin="B"/>
 <wire x1="129.54" y1="254" x2="119.38" y2="254" width="0.1524" layer="91"/>
 <label x="121.92" y="254" size="1.778" layer="95" rot="MR0"/>
 </segment>
@@ -22921,8 +22921,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </segment>
 <segment>
 <pinref part="R129" gate="G$1" pin="2"/>
-<wire x1="299.72" y1="220.98" x2="307.34" y2="220.98" width="0.1524" layer="91"/>
-<label x="304.8" y="220.98" size="1.778" layer="95"/>
+<wire x1="304.8" y1="220.98" x2="312.42" y2="220.98" width="0.1524" layer="91"/>
+<label x="309.88" y="220.98" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="RD_SYNC" class="0">
@@ -23455,7 +23455,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <label x="185.42" y="7.62" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
-<pinref part="R5" gate="G" pin="E"/>
+<pinref part="R109" gate="G" pin="E"/>
 <wire x1="241.3" y1="25.4" x2="241.3" y2="30.48" width="0.1524" layer="91"/>
 <label x="241.3" y="27.94" size="1.778" layer="95" rot="R90"/>
 </segment>
@@ -23496,14 +23496,14 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="251.46" y1="241.3" x2="251.46" y2="251.46" width="0.1524" layer="91"/>
 <wire x1="251.46" y1="251.46" x2="271.78" y2="251.46" width="0.1524" layer="91"/>
 <pinref part="R132" gate="G$1" pin="2"/>
-<wire x1="271.78" y1="251.46" x2="287.02" y2="251.46" width="0.1524" layer="91"/>
-<wire x1="287.02" y1="251.46" x2="292.1" y2="251.46" width="0.1524" layer="91"/>
+<wire x1="271.78" y1="251.46" x2="292.1" y2="251.46" width="0.1524" layer="91"/>
+<wire x1="292.1" y1="251.46" x2="297.18" y2="251.46" width="0.1524" layer="91"/>
 <wire x1="271.78" y1="248.92" x2="271.78" y2="251.46" width="0.1524" layer="91"/>
 <junction x="271.78" y="251.46"/>
-<label x="289.56" y="251.46" size="1.778" layer="95"/>
-<pinref part="Q2" gate="G$1" pin="E"/>
-<wire x1="287.02" y1="241.3" x2="287.02" y2="251.46" width="0.1524" layer="91"/>
-<junction x="287.02" y="251.46"/>
+<label x="294.64" y="251.46" size="1.778" layer="95"/>
+<pinref part="Q105" gate="G$1" pin="E"/>
+<wire x1="292.1" y1="241.3" x2="292.1" y2="251.46" width="0.1524" layer="91"/>
+<junction x="292.1" y="251.46"/>
 </segment>
 </net>
 <net name="N$71" class="0">
@@ -23545,7 +23545,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <net name="N$77" class="0">
 <segment>
 <pinref part="R107" gate="G$1" pin="1"/>
-<pinref part="R5" gate="G" pin="S"/>
+<pinref part="R109" gate="G" pin="S"/>
 <wire x1="248.92" y1="20.32" x2="246.38" y2="20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -23575,7 +23575,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <net name="N$81" class="0">
 <segment>
 <pinref part="R171" gate="G$1" pin="2"/>
-<pinref part="R5" gate="G" pin="A"/>
+<pinref part="R109" gate="G" pin="A"/>
 <wire x1="241.3" y1="12.7" x2="241.3" y2="15.24" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -23606,7 +23606,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="271.78" y1="218.44" x2="271.78" y2="220.98" width="0.1524" layer="91"/>
 <pinref part="R130" gate="G$1" pin="1"/>
 <wire x1="271.78" y1="220.98" x2="271.78" y2="223.52" width="0.1524" layer="91"/>
-<wire x1="271.78" y1="220.98" x2="274.32" y2="220.98" width="0.1524" layer="91"/>
+<wire x1="271.78" y1="220.98" x2="276.86" y2="220.98" width="0.1524" layer="91"/>
 <junction x="271.78" y="220.98"/>
 </segment>
 </net>
@@ -23615,9 +23615,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <pinref part="Q106" gate="G$1" pin="C"/>
 <pinref part="R132" gate="G$1" pin="1"/>
 <wire x1="271.78" y1="233.68" x2="271.78" y2="236.22" width="0.1524" layer="91"/>
-<pinref part="Q2" gate="G$1" pin="B"/>
+<pinref part="Q105" gate="G$1" pin="B"/>
 <wire x1="271.78" y1="236.22" x2="271.78" y2="238.76" width="0.1524" layer="91"/>
-<wire x1="271.78" y1="236.22" x2="281.94" y2="236.22" width="0.1524" layer="91"/>
+<wire x1="271.78" y1="236.22" x2="287.02" y2="236.22" width="0.1524" layer="91"/>
 <junction x="271.78" y="236.22"/>
 </segment>
 </net>
@@ -23625,11 +23625,11 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <segment>
 <pinref part="R130" gate="G$1" pin="2"/>
 <pinref part="R129" gate="G$1" pin="1"/>
-<wire x1="284.48" y1="220.98" x2="287.02" y2="220.98" width="0.1524" layer="91"/>
-<pinref part="Q2" gate="G$1" pin="C"/>
-<wire x1="287.02" y1="220.98" x2="289.56" y2="220.98" width="0.1524" layer="91"/>
-<wire x1="287.02" y1="220.98" x2="287.02" y2="231.14" width="0.1524" layer="91"/>
-<junction x="287.02" y="220.98"/>
+<wire x1="287.02" y1="220.98" x2="292.1" y2="220.98" width="0.1524" layer="91"/>
+<pinref part="Q105" gate="G$1" pin="C"/>
+<wire x1="292.1" y1="220.98" x2="294.64" y2="220.98" width="0.1524" layer="91"/>
+<wire x1="292.1" y1="220.98" x2="292.1" y2="231.14" width="0.1524" layer="91"/>
+<junction x="292.1" y="220.98"/>
 </segment>
 </net>
 <net name="N$85" class="0">
